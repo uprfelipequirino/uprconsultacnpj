@@ -1,0 +1,4 @@
+[build]
+  base = "consulta-cnpj"
+  command = "npm ci && npm run build"
+  publish = "dist"
